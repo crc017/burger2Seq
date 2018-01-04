@@ -1,2 +1,2 @@
-# burger2Seq
-burger assignment using sequelize
+# burger
+MySQL Full Stack App
